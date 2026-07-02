@@ -53,7 +53,7 @@
 ## 🔧 Productivity & Collaboration
 *Bring agents into daily enterprise workflows, messaging, and documentation systems.*
 
-- [Google Drive & Docs](https://github.com/modelcontextprotocol/servers/tree/main/src/gdrive) - MCP Server to read and search metadata/content inside Google Drive. `[MCP]` `[TypeScript]`
+- [Google Drive & Docs MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/gdrive) - MCP Server to read and search metadata/content inside Google Drive. `[MCP]` `[TypeScript]`
 - [Slack Tool Integration](https://github.com/langchain-ai/langchain/tree/master/libs/community/langchain_community/tools/slack) - Send messages, read channels, and manage Slack workspace workflows via LLM. `[LangChain]` `[Python]`
 - [Notion Toolkit](https://github.com/run-llama/llama_index/tree/main/llama-index-integrations/tools/llama-index-tools-notion) - Seamless data syncing and page creation inside Notion workspaces. `[LlamaIndex]` `[Python]`
 
