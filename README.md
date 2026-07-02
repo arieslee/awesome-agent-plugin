@@ -1,8 +1,6 @@
-# awesome-agent-plugin
-A curated list of awesome plugins and MCP servers for AI Agents. | 🤖 智能体插件与 MCP 服务精选优质列表。
 # Awesome Agent Plugin [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome plugins, tools, markets, and MCP servers for AI Agents.
+> A curated list of awesome plugins and MCP servers for AI Agents. | 🤖 智能体插件与 MCP 服务精选优质列表。
 
 ## 🤖 What is an Agent Plugin?
 Plugins give AI Agents "hands and feet"—allowing them to browse the web, write code, control apps, and interact with the real world.
