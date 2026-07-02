@@ -43,14 +43,22 @@
 *允许智能体安全地查询、审查和管理持久化数据层的连接器。*
 
 - [PostgreSQL MCP Server](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres) - 针对 PostgreSQL 的安全数据库架构审查与 SQL 查询。 `[MCP]` `[Python]`
-- [Sqlite MCP Server]([https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/sqlite)) - 本地 SQLite 数据库交互层，支持架构分析与 SQL 执行。 `[MCP]` `[Python]`
+- [Sqlite MCP Server](https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite) - 本地 SQLite 数据库交互层，支持架构分析与 SQL 执行。 `[MCP]` `[Python]`
+- [Axiom MCP](https://github.com/axiomhq/mcp-server-axiom) - 通过 Axiom 直接查询和分析日志与事件数据。 `[MCP]` `[Go]`
 
 ## 🔧 办公与协同
 *将智能体带入日常企业工作流、即时通讯以及文档管理系统。*
 
-- [Google Drive & Docs](https://github.com/modelcontextprotocol/servers/tree/main/src/gdrive) - 读取和检索 Google 云端硬盘内的文档与元数据。 `[MCP]` `[TypeScript]`
+- [Google Drive & Docs MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/gdrive) - 读取和检索 Google 云端硬盘内的文档与元数据。 `[MCP]` `[TypeScript]`
 - [Slack Tool Integration](https://github.com/langchain-ai/langchain/tree/master/libs/community/langchain_community/tools/slack) - 允许 LLM 发送消息、读取频道并管理 Slack 工作流。 `[LangChain]` `[Python]`
 - [Notion Toolkit](https://github.com/run-llama/llama_index/tree/main/llama-index-integrations/tools/llama-index-tools-notion) - 无缝同步和操作 Notion 工作区内的数据与页面。 `[LlamaIndex]` `[Python]`
+
+## ⚙️ 协议与 SDK
+*用于构建智能体插件和工具的核心协议与基础设施。*
+
+- [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) - Anthropic 推出的用于连接 AI 模型与数据源、工具的开放标准协议。
+- [MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk) - 用于实现 MCP 客户端和官方 TypeScript SDK。
+- [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk) - 用于构建自定义 MCP 集成的官方 Python SDK。
 
 ---
 
@@ -63,3 +71,8 @@
 5. 发起 Pull Request。
 
 请确保链接有效，并遵循格式：`[名称](链接) - 简介。 [框架] [语言]`
+
+---
+
+## 📄 开源协议
+本项目基于 CC0-1.0 Universal 许可协议开源。详情请参阅 `LICENSE` 文件。
