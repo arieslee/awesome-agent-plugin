@@ -2,6 +2,10 @@
 
 > A curated list of awesome plugins, tools, markets, and MCP (Model Context Protocol) servers to empower AI Agents with hands and feet.
 
+🌎 **English** | [简体中文](./README_zh.md)
+
+---
+
 🤖 **AI Agents** are powerful, but they become extraordinary when they can interact with the real world. This repository aims to collect the best plugins, tools, and servers that allow Agents to browse the web, write code, manage productivity apps, and execute tasks across frameworks.
 
 ---
