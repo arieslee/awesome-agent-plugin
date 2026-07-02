@@ -43,7 +43,7 @@
 *允许智能体安全地查询、审查和管理持久化数据层的连接器。*
 
 - [PostgreSQL MCP Server](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres) - 针对 PostgreSQL 的安全数据库架构审查与 SQL 查询。 `[MCP]` `[Python]`
-- [Sqlite MCP Server](https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite) - 本地 SQLite 数据库交互层，支持架构分析与 SQL 执行。 `[MCP]` `[Python]`
+- [Sqlite MCP Server]([https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/sqlite)) - 本地 SQLite 数据库交互层，支持架构分析与 SQL 执行。 `[MCP]` `[Python]`
 
 ## 🔧 办公与协同
 *将智能体带入日常企业工作流、即时通讯以及文档管理系统。*
