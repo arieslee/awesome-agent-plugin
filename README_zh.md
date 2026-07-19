@@ -1,6 +1,6 @@
 # Awesome Agent Plugin [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> 🤖 智能体插件与 MCP 服务精选优质列表 —— 赋予 AI 智能体连接现实世界的“手和脚”。
+> 🤖 智能体插件与 MCP 服务精选优质列表 - 赋予 AI 智能体连接现实世界的“手和脚”。
 
 [English](./README.md) | 简体中文
 
@@ -31,6 +31,7 @@
 - [Jina Reader](https://jina.ai/reader/) - 将任意网页 URL 转换为干净、适合 LLM 阅读的 Markdown。 `[Any Framework]` `[API]`
 - [Firecrawl](https://github.com/mendableai/firecrawl) - 仅需一次 API 调用即可将整个网站转为结构化数据或 Markdown。 `[Any Framework]` `[TypeScript]`
 - [Brave Search MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search) - 使用 Brave Search API 为模型提供安全的联网搜索。 `[MCP]` `[TypeScript]`
+- [Xquik MCP](https://github.com/Xquik-dev/x-twitter-scraper) - 远程 Streamable HTTP 服务，通过 2 个 MCP 工具提供 X 搜索、数据提取、监控、Webhook 与确认后的写入操作，支持 OAuth 2.1 或 API 密钥。 Not affiliated with X Corp. `[MCP]` `[API]`
 
 ## 💻 开发者工具与代码执行
 *用于安全执行代码、集成 Git 仓库以及辅助日常开发流的插件。*
@@ -75,4 +76,4 @@
 ---
 
 ## 📄 开源协议
-本项目基于 CC0-1.0 Universal 许可协议开源。详情请参阅 `LICENSE` 文件。
+本项目基于 MIT 许可协议开源。详情请参阅 `LICENSE` 文件。

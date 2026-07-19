@@ -35,6 +35,7 @@
 - [Jina Reader](https://jina.ai/reader/) - A simple tool that converts any URL into clean, LLM-friendly Markdown. `[Any Framework]` `[API]`
 - [Firecrawl](https://github.com/mendableai/firecrawl) - Turns entire websites into structured data or markdown with a single API call. `[Any Framework]` `[TypeScript]`
 - [Brave Search MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search) - Provides secure web search capabilities to LLMs using Brave Search API. `[MCP]` `[TypeScript]`
+- [Xquik MCP](https://github.com/Xquik-dev/x-twitter-scraper) - Remote Streamable HTTP server for X search, extraction, monitoring, webhooks, and confirmed writes through 2 MCP tools. Supports OAuth 2.1 or API keys. Not affiliated with X Corp. `[MCP]` `[API]`
 
 ## 💻 Developer Tools & Code Execution
 *Plugins for secure code execution, Git integration, and development workflows.*
@@ -81,4 +82,4 @@ Please make sure the link is valid and follow the format: `[Name](Link) - Descri
 ---
 
 ## 📄 License
-Distributed under the CC0-1.0 Universal License. See `LICENSE` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
